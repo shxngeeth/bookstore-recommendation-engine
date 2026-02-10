@@ -1,0 +1,88 @@
+{
+    "books": {
+        "B101": {
+            "book_id": "B101",
+            "title": "The Algorithm Myth"
+        },
+        "B102": {
+            "book_id": "B102",
+            "title": "Data Structure Guide"
+        },
+        "B103": {
+            "book_id": "B103",
+            "title": "A Tale of Two Queues"
+        },
+        "B104": {
+            "book_id": "B104",
+            "title": "The Greedy Programmer"
+        },
+        "B105": {
+            "book_id": "B105",
+            "title": "OOP for Dummies"
+        },
+        "B106": {
+            "book_id": "B106",
+            "title": "The Recursive Dream"
+        },
+        "B107": {
+            "book_id": "B107",
+            "title": "Advanced Graph Theory"
+        },
+        "B108": {
+            "book_id": "B108",
+            "title": "Python Design Patterns"
+        }
+    },
+    "users": {
+        "Alice": {
+            "name": "Alice",
+            "purchased_books": [
+                "B102",
+                "B103",
+                "B101"
+            ]
+        },
+        "Bob": {
+            "name": "Bob",
+            "purchased_books": [
+                "B102",
+                "B105",
+                "B101"
+            ]
+        },
+        "Charlie": {
+            "name": "Charlie",
+            "purchased_books": [
+                "B104",
+                "B101"
+            ]
+        },
+        "David": {
+            "name": "David",
+            "purchased_books": [
+                "B102",
+                "B108",
+                "B105",
+                "B101"
+            ]
+        },
+        "Eve": {
+            "name": "Eve",
+            "purchased_books": [
+                "B103",
+                "B106",
+                "B107"
+            ]
+        },
+        "Fiona": {
+            "name": "Fiona",
+            "purchased_books": [
+                "B106",
+                "B103",
+                "B101",
+                "B104",
+                "B102"
+            ]
+        }
+    }
+}
