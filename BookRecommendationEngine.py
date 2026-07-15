@@ -72,7 +72,7 @@ class RecommendationApp:
         self.root = root
         self.engine = engine
 
-        root.title("Bookstore Recommendation Engine Shangeeth")
+        root.title("Bookstore Recommendation Engine")
         root.geometry("700x500")
 
         main = ttk.Frame(root, padding=10)
